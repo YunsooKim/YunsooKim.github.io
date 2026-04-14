@@ -29,9 +29,7 @@ Prior to my Ph.D., I worked for ~3.5 years at **Smart Radar System**, developing
 | | |
 |---|---|
 | **[E2EGS: Event-to-Edge Gaussian Splatting](/projects/e2egs/)** | CVPR 2026 (highlight) |
-| Pose-free 3D reconstruction from event cameras without RGB input. | |
 | **[GROCA: Radar-Camera Extrinsic Calibration](/projects/groca/)** | IEEE RA-L (in progress) |
-| To Be Updated. | |
 
 ---
 
