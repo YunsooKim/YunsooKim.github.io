@@ -9,7 +9,7 @@ permalink: /
 I am a Ph.D. student at the **Urban Robotics Lab (URL)**, School of Electrical Engineering, KAIST.  
 My research focuses on robust 3D scene understanding using unconventional sensors — particularly **event cameras** and **radar** — for reliable robot perception in challenging environments.
 
-Prior to my Ph.D., I worked for ~3.5 years at **Smart Radar System**, developing radar signal processing pipelines, waveform design, and sensor fusion systems for automotive clients including LG Electronics, GM, and Hyundai Mobis.
+Prior to my Ph.D., I worked for ~3.5 years at **Smart Radar System**, developing radar signal processing pipelines, waveform design, and sensor fusion systems for automotive clients including LG Electronics, GM, LG Innotek, and Hyundai Mobis.
 
 ---
 
