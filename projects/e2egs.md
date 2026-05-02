@@ -24,4 +24,4 @@ Pose-free 3D reconstruction from event camera streams without RGB input or exter
 
 ## Links
 
-- [arXiv](https://arxiv.org/abs/2603.14684) · [Youtube](https://www.youtube.com/watch?v=6oWVDy8yygI&t=13s)
+- [Project Page](https://yunsookim.github.io/E2EGS/) · [arXiv](https://arxiv.org/abs/2603.14684) · [Youtube](https://www.youtube.com/watch?v=6oWVDy8yygI&t=13s)
