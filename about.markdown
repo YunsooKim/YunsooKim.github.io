@@ -57,4 +57,5 @@ Automotive radar signal processing, SLAM, and sensor fusion for automotive clien
 | Degree | Major                  | Institution | Year                               |
 | ------ | ---------------------- | ----------- | ---------------------------------- |
 | Ph.D.  | Electrical Engineering | KAIST       | 2021 – (2022–2025 leave) – present |
-| B.S.   | Mechanical Engineering | KAIST       | 2021.02                            |
+| M.S.   | Electrical Engineering | KAIST       | 2021.02                            |
+| B.S.   | Mechanical Engineering | KAIST       | 2019.02                            |
